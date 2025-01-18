@@ -1,0 +1,37 @@
+{
+"name": "prueba",
+"author": "anonimo",
+"url": "",
+"image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+"info": "",
+"groups":
+    [
+        {
+        "name": "LIDLT temp8",
+        "info":"",
+        "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "programa 1",
+                "info":"SI",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://bembed.net/v/JzkPxzny8Krxbyd",
+                 "embed": "",
+                "isHost": "true",
+                "online": "true"
+                },
+                {
+                "name": "programa 2",
+                "info":"SI",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://bembed.net/v/pVa4E8MN4K0OkzM",
+                "embed": "",
+                "isHost": "true",
+                "online": "true"
+                }
+            ]
+        }
+    ]
+}
