@@ -30,6 +30,15 @@
                 "embed": "",
                 "isHost": "true",
                 "online": "true"
+                },
+                {
+                "name": "programa 3 ",
+                "info":"NO",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "",
+                "embed": "",
+                "isHost": "true",
+                "online": "true"
                 }
             ]
         }
