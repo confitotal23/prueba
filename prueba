@@ -1,46 +1,6 @@
-{
-"name": "prueba",
-"author": "anonimo",
-"url": "https://raw.githubusercontent.com/confitotal23/prueba/refs/heads/main/prueba",
-"image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
-"info": "",
-"groups":
-    [
-        {
-        "name": "LIDLT temp8",
-        "info":"",
-        "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
-        "imageScale": "",
-        "stations":
-            [
-                {
-                "name": "programa 1",
-                "info":"SI",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://listeamed.net/v/8ozgEND9RnL5mjA",
-                 "embed": "",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "programa 2",
-                "info":"SI",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://listeamed.net/v/nyg9EKM4pwr5bk4",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "programa 3 ",
-                "info":"NO",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                }
-            ]
-        }
-    ]
-}
+#EXTM3U
+#EXTINF:-1 tvg-id="BAR1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%20HD.png" group-title="M+ LaLiga", LaLiga TV BAR HD
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:-1 tvg-id="BAR2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%20HD.png" group-title="M+ LaLiga", LaLiga TV BAR HD
+acestream://94d34491106e00394835c8cb68aa94481339b53f
