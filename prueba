@@ -59,9 +59,7 @@ acestream://71abebf150324106df1d9dc25e34dd8840217835
 acestream://d27e23deffb2314a9549b00d62fade1e2e38ed60
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", LA LIGA TV BAR FHD por Tronoss
 acestream://5834660ff7ae10f0514dc23c241c054dc0272d01
-#EXTINF:-1 tvg-id="LaLiga TV BAR op1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%20HD.png" group-title="M+ LaLiga", BAR 990e
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-id="LaLiga TV BAR op2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%20HD.png" group-title="M+ LaLiga", BAR b53f
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD op2" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", LA LIGA TV BAR FHD por Tronoss op2
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png", LA LIGA TV UHD por Tronoss
 acestream://7138311a683384297b7ba47020badf454a4376aa
