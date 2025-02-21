@@ -17,7 +17,7 @@
                 "name": "programa 1",
                 "info":"SI",
                 "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://filemoon.to/e/uft3hdavb1fh",
+                "url": "https://filemoon.to/d/uft3hdavb1fh",
                  "embed": "",
                 "isHost": "true",
                 "online": "true"
@@ -27,7 +27,7 @@
                 "info":"SI",
                 "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
                 "url": "https://filemoon.to/d/uft3hdavb1fh",
-                "embed": "",
+                "embed": "https://filemoon.to/e/uft3hdavb1fh",
                 "isHost": "true",
                 "online": "true"
                 }
