@@ -17,7 +17,55 @@
                 "name": "programa 1",
                 "image": "https://img-place.com/uox8io2d54yz_t.jpg",
                 "url": "https://filemoon.to/d/uox8io2d54yz/LIDLT_temp_8_Programa_1",
-                "info": "NO",
+                "info": "SI",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 2",
+                "image": "https://img-place.com/g4ai3wk8qvfc_t.jpg",
+                "url": "https://filemoon.to/d/g4ai3wk8qvfc/LIDLT_temp_8_Programa_2",
+                "info": "SI",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 3",
+                "image": "https://img-place.com/e1sxh70bar7l_t.jpg",
+                "url": "https://filemoon.to/d/e1sxh70bar7l/LIDLT_temp_8_Programa_3",
+                "info": "SI",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 4",
+                "image": "https://img-place.com/89s9qgegx6k1_t.jpg",
+                "url": "https://filemoon.to/d/89s9qgegx6k1/LIDLT_temp_8_Programa_4",
+                "info": "SI",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 5",
+                 "image": "https://img-place.com/240jmz9qqqcr_t.jpg",
+                "url": "https://filemoon.to/d/240jmz9qqqcr/LIDLT_temp_8_Programa_5",
+                "info": "SI",
                 "embed": "",
                 "referer": "",
                 "isHost": "true",
@@ -25,7 +73,6 @@
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "import": false
                 }
-              
             ]
         }
     ]
