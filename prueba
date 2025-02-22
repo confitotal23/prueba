@@ -15,12 +15,66 @@
             [
                 {
                 "name": "programa 1",
-                "info":"SI",
                 "image": "https://img-place.com/uox8io2d54yz_t.jpg",
                 "url": "https://filemoon.to/d/uox8io2d54yz/LIDLT_temp_8_Programa_1",
-                 "embed": "",
+                "info": "NO",
+                "embed": "",
+                "referer": "",
                 "isHost": "true",
-                "online": "true"
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 2",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "info": "NO",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 11",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "info": "prueba 1",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+               "name": "programa 11",
+               "info": "prueba 2",
+               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "isHost": "true",
+                "online": "true",
+                "import": false,
+                "userAgent": "PlusMediaPlayer/0.0.9"
+                },
+                {
+               "name": "programa 11",
+               "info": "prueba 3",
+               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+                },
+                {
+                "name": "ALGO PASA CON MARY",
+                "info": "[1998][Español]",
+                "image": "https://pics.filmaffinity.com/there_s_something_about_mary-465333352-large.jpg",
+                "url": "https://filemoon.to/d/r6yuql63pt3b/Algo_pasa_con_Mary__1998_Pelicula__esp_1080p_mp4.mp4",
+                "isHost": "true",
+                "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9"
                 }
             ]
