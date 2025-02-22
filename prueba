@@ -7,7 +7,7 @@
 "groups":
     [
         {
-        "name": "filemoon",
+        "name": "prueba",
         "info":"",
         "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
         "imageScale": "",
@@ -15,128 +15,64 @@
             [
                 {
                 "name": "programa 1",
-                "info":"SI",
-                "image": "https://img-place.com/uox8io2d54yz_t.jpg",
-                "url": "https://filemoon.to/d/uox8io2d54yz/LIDLT_temp_8_Programa_1",
-                 "embed": "",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "info": "NO",
+                "embed": "",
+                "referer": "",
                 "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
                 },
                 {
                 "name": "programa 2",
-                "info":"SI",
-                "image": "https://img-place.com/g4ai3wk8qvfc_t.jpg",
-                "url": "https://filemoon.to/d/g4ai3wk8qvfc/LIDLT_temp_8_Programa_2",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "info": "NO",
                 "embed": "",
+                "referer": "",
                 "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 3",
-                "info":"SI",
-                "image": "https://img-place.com/e1sxh70bar7l_t.jpg",
-                "url": "https://filemoon.to/d/e1sxh70bar7l/LIDLT_temp_8_Programa_3",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 4",
-                "info":"SI",
-                "image": "https://img-place.com/89s9qgegx6k1_t.jpg",
-                "url": "https://filemoon.to/d/89s9qgegx6k1/LIDLT_temp_8_Programa_4",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 5",
-                "info":"SI",
-                "image": "https://img-place.com/240jmz9qqqcr_t.jpg",
-                "url": "https://filemoon.to/d/240jmz9qqqcr/LIDLT_temp_8_Programa_5",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                }, 
-                {
-                "name": "programa 6",
-                "info":"SI",
-                "image": "https://img-place.com/q11nr8hqcfkp_t.jpg",
-                "url": "https://filemoon.to/d/q11nr8hqcfkp/LIDLT_temp_8_Programa_6",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 7",
-                "info":"SI",
-                "image": "https://img-place.com/mzb9td60o5nr_t.jpg",
-                "url": "https://filemoon.to/d/mzb9td60o5nr/LIDLT_temp_8_Programa_7",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 8",
-                "info":"SI",
-                "image": "https://img-place.com/hc44dktc1vog_t.jpg",
-                "url": "https://filemoon.to/d/hc44dktc1vog/LIDLT_temp_8_Programa_8",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 9",
-                "info":"SI",
-                "image": "https://img-place.com/8mbsaiinaa6i_t.jpg",
-                "url": "https://filemoon.to/d/8mbsaiinaa6i/LIDLT_temp_8_Programa_9",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
-                },
-                {
-                "name": "programa 10",
-                "info":"SI",
-                "image": "https://img-place.com/stll3qbfh8sn_t.jpg",
-                "url": "https://filemoon.to/d/stll3qbfh8sn/LIDLT_temp_8_Programa_10",
-                "embed": "",
-                "isHost": "true",
-                "online": "true"
-                "userAgent": "PlusMediaPlayer/0.0.9"
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
                 },
                 {
                 "name": "programa 11",
-                "info":"SI",
-                "image": "https://img-place.com/m1yjj400bc5a_t.jpg",
-                "url": "https://filemoon.to/d/m1yjj400bc5a/LIDLT_temp_8_Programa_11",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "info": "prueba 1",
                 "embed": "",
+                "referer": "",
                 "isHost": "true",
-                "online": "true"
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+               "name": "programa 11",
+               "info": "prueba 2",
+               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
+                "isHost": "true",
+                "online": "true",
+                "import": false,
                 "userAgent": "PlusMediaPlayer/0.0.9"
                 },
                 {
-               "name": "programa 12",
-               "info": "NO",
+               "name": "programa 11",
+               "info": "prueba 3",
                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "",
+                "url": "https://1024terabox.com/s/17iuRQkzMMWZ4MAAbd5pr-A",
                 "isHost": "true",
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9"
                 },
                 {
-               "name": "programa 13",
-               "info": "NO",
-               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "",
+                "name": "ALGO PASA CON MARY",
+                "info": "[1998][Español]",
+                "image": "https://pics.filmaffinity.com/there_s_something_about_mary-465333352-large.jpg",
+                "url": "https://filemoon.to/d/r6yuql63pt3b/Algo_pasa_con_Mary__1998_Pelicula__esp_1080p_mp4.mp4",
                 "isHost": "true",
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9"
