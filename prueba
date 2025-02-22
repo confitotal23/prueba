@@ -1,13 +1,13 @@
 {
-"name": "terabox",
+"name": "LIDLT temp8",
 "author": "anonimo",
-"url": "",
+"url": "https://raw.githubusercontent.com/confitotal23/prog/refs/heads/main/isla",
 "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
 "info": "",
 "groups":
     [
         {
-        "name": "terabox",
+        "name": "LIDLT temp8",
         "info":"",
         "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
         "imageScale": "",
@@ -15,33 +15,67 @@
             [
                 {
                 "name": "programa 1",
-                "info":"SI",
                 "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://filemoon.to/d/uft3hdavb1fh",
-                 "embed": "",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "programa 2",
-                "info":"SI",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://filemoon.to/d/uft3hdavb1fh",
-                "embed": "https://filemoon.to/e/uft3hdavb1fh",
-                "isHost": "true",
-                "online": "true"
-                },
-                {
-                "name": "programa 3",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url": "https://filemoon.to/d/uft3hdavb1fh",
-                "info": "2024",
+                "url": "",
+                "info": "NO",
                 "embed": "",
                 "referer": "",
                 "isHost": "true",
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "import": false
+                },
+                {
+                "name": "programa 2",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "",
+                "info": "NO",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+                "name": "programa 11",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://filemoon.to/d/uft3hdavb1fh",
+                "info": "prueba 1",
+                "embed": "",
+                "referer": "",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+                {
+               "name": "programa 11",
+               "info": "prueba 2",
+               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://filemoon.to/d/uft3hdavb1fh",
+                "isHost": "true",
+                "online": "true",
+                "import": false,
+                "userAgent": "PlusMediaPlayer/0.0.9"
+                },
+                {
+               "name": "programa 11",
+               "info": "prueba 3",
+               "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url": "https://filemoon.to/d/uft3hdavb1fh",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
+                },
+                {
+                "name": "ALGO PASA CON MARY",
+                "info": "[1998][Español]",
+                "image": "https://pics.filmaffinity.com/there_s_something_about_mary-465333352-large.jpg",
+                "url": "https://filemoon.to/d/r6yuql63pt3b/Algo_pasa_con_Mary__1998_Pelicula__esp_1080p_mp4.mp4",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9"
                 }
             ]
         }
