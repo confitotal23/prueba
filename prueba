@@ -1,13 +1,13 @@
 {
-"name": "prueba",
+"name": "LIDLT",
 "author": "anonimo",
 "url": "",
-"image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+"image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
 "groups":
     [
         {
         "name": "LIDLT temp8",
-        "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+        "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
         "stations":
             [
                 {
@@ -122,7 +122,7 @@
                 },
                 {
                 "name": "programa 12",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
                 "url": "",
                 "info": "NO",
                 "isHost": "true",
@@ -132,7 +132,7 @@
                 },
                 {
                 "name": "programa 13",
-                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
                 "url": "",
                 "info": "NO",
                 "isHost": "true",
