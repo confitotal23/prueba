@@ -59,6 +59,15 @@
         "isHost":"true"
         },
         {
+        "name": "Sky Sport LaLiga",
+        "info":"[TvPlus]",
+        "online":"true",
+        "image": "https://i.postimg.cc/q7N7zr9M/Sky-Sports-Football.png",
+        "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "url": "https://www.tvplusgratis2.com/sky-sports-la-liga-en-vivo.html",
+        "isHost":"true"
+        },
+        {
         "name": "Dazn LaLiga 🇪🇸",
         "info":"[Tele]",
         "online":"true",
