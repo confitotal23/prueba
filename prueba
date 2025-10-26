@@ -1,124 +1,24 @@
 {
-"name": "prueba",
-"author": "MINIONS",
-"url": "https://raw.githubusercontent.com/confitotal23/prueba/refs/heads/main/prueba",
-"image": "",
-"info": "MINIONS",
-"stations":
-
-[ 
-{
-        "name": "La 1",
-        "uri": "https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd",
-        "kid": "vQ/DQdRLXM2qLQPwvttd2w,JcMmPyUtVN6tKs4zG5xyyQ,wJIOfOf0U9itAB5ozrBkXQ",
-        "key": "lyTwnq1RDegpCNm0TC2FBA,J7Hgw/XTOY0igyGbsZlPSA,FYDWY7wGKDN/WX/hNWQ7UQ",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "La 2",
-        "uri": "https://tvup01.edge.milloh-cs.com/la2/la2.mpd",
-        "kid": "KmWoCVXlUAOWUcquGzLumg,OiF2E6tMXYOZQ01nm7Q8pQ,YpP5Brn2XneDElUT0xOj+Q",
-        "key": "kVMv0/ljz8ph0nU68bhBNg,0dQaSOhe03jPx95y8Z7dHw,y91QpZqe6j7NGzuVxWlAwA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-
-      {
-        "name": "Antena 3",
-        "uri": "https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd",
-        "kid": "FzvLeNM6Wue6c1etlHI/KA,ta7+N6OMVkKHbpkqtITh+g,xkiUP2xAXZGJobS8UYg4sA",
-        "key": "Hmn5U8iXTKz4XpwpxqDyzA,l0Db9irngR0X2H06jvDEQg,a0lawyKF1gDTM03ZvtUtWQ",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Cuatro",
-        "uri": "https://tvup01.edge.milloh-cs.com/cuatro/cuatro.mpd",
-        "kid": "hwiqZtGIWPuwqYdr8Mx4eA,OEg7W8IGU1yU29Kdc6KpCw,eP7K1eAUW3GRbhMvG8KTsg",
-        "key": "kUj5qQn0FCnn8wcJE+j6jQ,xwJMknFrCn6oU6CIHOATFQ,JPLKU5J6UTT7cC5hIfGuow",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Telecinco",
-        "uri": "https://tvup01.edge.milloh-cs.com/telecincohd/telecincohd.mpd",
-        "kid": "3vV2nu1hUtKzKqHHWmJHZA,fKk7d3M0VNODDGCZatiSmw,+uu7m4F0WdKWViVwhmahFA",
-        "key": "7QbfkA4LhFSag0xJmX3IrQ,irmAn8eZAVpBw5uLnWq5pQ,mhqpStsLFbUjg2xvQYQ3Jg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "La Sexta",
-        "uri": "https://tvup01.edge.milloh-cs.com/lasexta/lasexta.mpd",
-        "kid": "ilaiW+HtXGqUbtyEk9QtHQ,EXn6Fl2DVKWKAjd+uemtUg,OhkuvxPgXFKEWdxmAx4tog",
-        "key": "AzKtewoFx/9YVM+wz4c3/g,BdjWC0eaG78rmyF2Xf5j5g,gXnIa+jh862QU6qMzZd0CA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },  
-       {
-        "name": "BE MAD",
-        "uri": "https://tvup01.edge.milloh-cs.com/bemad/bemad.mpd",
-        "kid": "iUREQ3dPXkWD0qiBUJZoOQ,efWnJZRVUrqBfsueYkJzcA,Vh90OcpFXFevhHBeoAEELw",
-        "key": "h4gffi8XzB+WNHu63DSGbg,H3l/uRDEJk004LMEXNQ2bw,JlrEaPxsze8TehvJLuY97Q",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-       {
-        "name": "Divinity",
-        "uri": "https://tvup01.edge.milloh-cs.com/divinity6/divinity6.mpd",
-        "kid": "FyWY2iVQUDeuqKhQ2/tvVQ,32pVruECWbiHC8zUKR72Hw,74L0XV/gX+GZUOELOKb2yA",
-        "key": "S+DMIFde9W4soA2oXh4fNQ,GVm6EahjxNOXo/Yq9mTapQ,UNM6n1W6QfOEL9htxGMUqw",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Energy",
-        "uri": "https://tvup01.edge.milloh-cs.com/energy6/energy6.mpd",
-        "kid": "bnyT8xALXfGuBPVN4++ivA,64VJhXqVVH21yJiW+7e4Vg,EdSAF9nrVOGZ8d+W6+WQqw",
-        "key": "PTzsK+G7GA0S3eKEGHvcmA,CBXgihk8TeIhMMwXXJBUVA,V8pr8QxnxGwL1LylD/TdGg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "FDF",
-        "uri": "https://tvup01.edge.milloh-cs.com/fdf6/fdf6.mpd",
-        "kid": "zSnf8Fs6UOeWSj3BU5hIgA,+J1/slScU2+v1GyUTFwvhw,1lvMmAL7WJW0S1HqGusrag",
-        "key": "ilGG32Ek6F4WCkilnO0uBg,Ukz/bVFfwqIsHh+rZxzRaQ,LuwU7DvY4jhxXjTJPi3eIg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
+"name": "ZoNa AceStreAm",
+"author": "Minions",
+"image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
+"url": "https://raw.githubusercontent.com/confitotal23/minions/refs/heads/main/minions",
+"telegram": "",
+"info": "",
+"groups":
+    [
         {
-        "name": "Neox",
-        "uri": "https://tvup01.edge.milloh-cs.com/neox6/neox6.mpd",
-        "kid": "eY04FaYKUJ2JSV7vAJsSbg,GClJFtrsVv62dKgzSs0pOw,GXMiMn2oXzWEPWQBrJdMuQ",
-        "key": "F7itpsdypGzB8WFubQx8TA,L+aRZmbUjeHgoCZQAE07rw,SuEvhptVnZTD3VcK5bSeMA",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "Nova",
-        "uri": "https://tvup01.edge.milloh-cs.com/nova6/nova6.mpd",
-        "kid": "R7yrsOQCWkSkMc28AIRPlg,ZN+OwoiXU4CBnsqInxDgFg,TgV/WNWlXD+aFhI/Q6fWqQ",
-        "key": "s1bRH6ZxCwaE6urGR6Gn/Q,XLr7UHxlcnm2jFiOqq8lww,TmtDMS4lhRoKpOJp+tS22g",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-       {
-        "name": "MEGA",
-        "uri": "https://tvup01.edge.milloh-cs.com/mega6/mega6.mpd",
-        "kid": "F8lv/1s2VuOXOyQx1UdA4w,15KelKkDX46xdO3NWF4z2g,pbzZ6IqfVsGY/73RBXpwHQ",
-        "key": "TqWqdk94BrG8nV1w3DD5Uw,hDrmCHyxx4lxB+1HfxKtBw,vf/lfhq9nOEsQA2jsuXTrg",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-      {
-        "name": "TRECE",
-        "uri": "https://tvup01.edge.milloh-cs.com/trece6/trece6.mpd",
-        "kid": "DRWFsL1nU1iDBdFQDaQopw,jLHvto0LWjOr3oO7qn/Zgg,UQZHfIKtVqShD7ALX5LU1Q",
-        "key": "Z4fDBvpJxAAcSjESeFGj9w,5IzjT+pcTkYO4BIJayMKhg,pynzeQnXUmZXZZ/EeSrN1w",
-        "drm_scheme": "clearkey",
-        "extension": "mpd"
-      },
-  ]
+         "name": "lista fuera iptv",
+         "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
+         "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
+         "import": false
+        },
+        {
+         "name": "lista iptv",
+         "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
+         "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u",
+         "import": false
+        },
+         
+    ]
 }
