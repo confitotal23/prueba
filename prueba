@@ -19,22 +19,28 @@
          "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u",
          "import": false
         },
- {
+        {
          "name": "lista 1 iptv",
          "image": "https://i.postimg.cc/VNXLrPYg/68e782fb9d541.webp",
          "url": "https://m3u.ch/pl/1a81ce5a4ccb7bdc194dbaf06d16765a_9bb5279632494fadd5313ea096eb55b2.m3u",
          "import": false
         },
- {
+        {
          "name": "lista 2 iptv",
          "image": "https://i.postimg.cc/VNXLrPYg/68e782fb9d541.webp",
          "url": "https://m3u.ch/pl/2a06124d9da3631b658aeed12e79f7cb_c4a200f9317521fa1ff0afc28a63034b.m3u",
          "import": false
         },
- {
+        {
          "name": "lista 3 iptv",
          "image": "https://i.postimg.cc/VNXLrPYg/68e782fb9d541.webp",
          "url": "https://m3u.ch/pl/caf7acb6676b904203a2f6cc47a81ac4_ab68ed80e300cbc6dfc406b90226a170.m3u",
+         "import": false
+        },
+        {
+         "name": "lista 4 iptv",
+         "image": "https://i.postimg.cc/VNXLrPYg/68e782fb9d541.webp",
+         "url": "https://m3u.ch/pl/d6671c1e498567d5fd3fccaae4f7480b_852a3a615754a32bf0d08918cc8c1ec1.m3u",
          "import": false
         },
          
