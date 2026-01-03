@@ -8,13 +8,13 @@
 "groups":
     [
         {
-         "name": "lista fuera iptv",
+         "name": "lista Ace fuera iptv",
          "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
          "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
          "import": false
         },
         {
-         "name": "lista iptv",
+         "name": "lista Ace iptv",
          "image": "https://i.postimg.cc/QCS09S5S/Ace-Stream.png",
          "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u",
          "import": false
